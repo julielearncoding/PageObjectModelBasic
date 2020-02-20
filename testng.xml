@@ -9,9 +9,7 @@
 	
 	<test thread-count="5" name="Test">
 		<classes>
-			<class name="guru99.bank.POM.test.CreateNewCustomerTest" />
-			<class name="guru99.bank.POM.test.CreateNewAccountTest" />
-			<class name="guru99.bank.POM.test.DepositTest" />
+			<class name="src.test.rough.LoginTest" />
 		</classes>
 	</test> <!-- Test -->
 </suite> <!-- Suite -->
